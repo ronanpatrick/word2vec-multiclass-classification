@@ -27,7 +27,7 @@ This repository contains an advanced Natural Language Processing (NLP) project f
 
 ### Run in Cloud (Recommended)
 You can view and execute the code instantly in your browser via Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/word2vec-multiclass-classificationc/blob/main/Word2Vec_Multiclass_Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/word2vec-ecommerce-sentiment/blob/main/Word2Vec_Multiclass_Classification.ipynb)
 
 *(Note: If running in Colab, please ensure you upload `train.csv`, `test.csv`, and `val.csv` to your session storage first).*
 
